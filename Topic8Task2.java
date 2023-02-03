@@ -1,7 +1,6 @@
 public class Topic8Task2 {
 
   int a;
-
   int b;
 
   public Topic8Task2() {
